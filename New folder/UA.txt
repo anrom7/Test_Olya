@@ -1,5 +1,9 @@
 Adzhamka	48.54306	32.53611
+<<<<<<< HEAD
 Alchevs’k	48.47278	38.79972
+=======
+Alchevsâ€™k	48.47278	38.79972
+>>>>>>> origin/master
 Aleksandrovka	46.83333	32.78333
 Alupka	44.41667	34.05
 Alushta	44.67471	34.40455
@@ -9,8 +13,13 @@ Antoniny	49.8	26.86667
 Antratsit	48.11917	39.09
 Apostolove	47.66667	33.73333
 Arbuzynka	47.91667	31.31667
+<<<<<<< HEAD
 Armyans’k	46.1079	33.69387
 Artemivs’k	48.59139	38.00806
+=======
+Armyansâ€™k	46.1079	33.69387
+Artemivsâ€™k	48.59139	38.00806
+>>>>>>> origin/master
 Artsyz	45.98333	29.41667
 Askaniya_Nova	46.45489	33.87088
 Auly	48.53333	34.5
@@ -40,7 +49,11 @@ Belki	48.31667	23.13333
 Belogorovka	48.92667	38.24417
 Beloye	48.49278	39.03556
 Belz	50.38333	24.01667
+<<<<<<< HEAD
 Berdyans’k	46.75028	36.79444
+=======
+Berdyansâ€™k	46.75028	36.79444
+>>>>>>> origin/master
 Berdychiv	49.9	28.58333
 Berehomet	48.17556	25.34139
 Berehove	45.0947	35.43385
@@ -61,9 +74,15 @@ Bezimenne	47.1	37.93333
 Bezlyudivka	49.87639	36.27556
 Bila_Krynytsya	50.65	29.46667
 Bila_Tserkva	49.78333	30.11667
+<<<<<<< HEAD
 Bilhorod-Dnistrovs’kyy	46.2	30.35
 Bili_Oslavy	48.49167	24.70333
 Bilohirs’k	45.0525	34.59596
+=======
+Bilhorod-Dnistrovsâ€™kyy	46.2	30.35
+Bili_Oslavy	48.49167	24.70333
+Bilohirsâ€™k	45.0525	34.59596
+>>>>>>> origin/master
 Bilokurakyne	49.53639	38.70333
 Bilopillya	51.14833	34.30083
 Bilovods'k	49.20846	39.58975
@@ -90,7 +109,11 @@ Borova	49.37722	37.61917
 Borova	50.16667	30.1
 Borshchiv	48.8	26.05
 Boryslav	49.28333	23.41667
+<<<<<<< HEAD
 Boryspil’	50.35	30.95
+=======
+Boryspilâ€™	50.35	30.95
+>>>>>>> origin/master
 Borzna	51.25	32.43333
 Boyany	48.28333	26.13333
 Boyarka	50.31667	30.31667
@@ -111,7 +134,11 @@ Buchmany	51.05	28.05
 Budy	49.89556	36.02
 Bukovets	48.61667	23.36667
 Burshtyn	49.26667	24.63333
+<<<<<<< HEAD
 Buryn’	51.2	33.81667
+=======
+Burynâ€™	51.2	33.81667
+>>>>>>> origin/master
 Bushtyno	48.05028	23.48944
 Bykivka	50.28333	27.98333
 Bystrets	48.12262	24.69435
@@ -140,9 +167,15 @@ Chop	48.43333	22.2
 Chopovychi	50.83333	28.95
 Chornobay	49.66667	32.33333
 Chornobayivka	46.68333	32.55
+<<<<<<< HEAD
 Chornobyl’	51.26667	30.23333
 Chornoliztsi	48.83306	24.89389
 Chornomors’ke	45.5034	32.69777
+=======
+Chornobylâ€™	51.26667	30.23333
+Chornoliztsi	48.83306	24.89389
+Chornomorsâ€™ke	45.5034	32.69777
+>>>>>>> origin/master
 Chornopillya	45.04287	34.64534
 Chornukhy	50.26667	32.95
 Chornyanka	46.64902	33.36085
@@ -157,7 +190,11 @@ Chyhyryn	49.08376	32.65549
 Chynadiyovo	48.48333	22.83333
 Dashev	49.00449	29.42559
 Davydivka	48.12139	25.55639
+<<<<<<< HEAD
 Debal’tsevo	48.33694	38.40028
+=======
+Debalâ€™tsevo	48.33694	38.40028
+>>>>>>> origin/master
 Degtyari	50.58333	32.76667
 Demeci	48.42595	22.32903
 Denyshi	50.21415	28.40395
@@ -169,20 +206,32 @@ Dilyatyn	48.52556	24.62667
 Dmytrivka	47.93711	38.93475
 Dmytrivka	48.8025	32.72278
 Dmytrivka	45.97167	28.98639
+<<<<<<< HEAD
 Dniprodzerzhyns’k	48.5	34.61667
+=======
+Dniprodzerzhynsâ€™k	48.5	34.61667
+>>>>>>> origin/master
 Dnipropetrovsk	48.45	34.98333
 Dniprorudne	47.41	35.01972
 Dniprovka	47.43194	34.62056
 Dnipryany	46.74389	33.27333
 Dobre	44.86874	34.23316
+<<<<<<< HEAD
 Dobropol’ye	48.48333	37.1
+=======
+Dobropolâ€™ye	48.48333	37.1
+>>>>>>> origin/master
 Dobrovlyany	49.43333	23.56667
 Dobryanka	52.06333	31.18306
 Dokuchayevsk	47.73333	37.66667
 Dolyna	48.97056	24.01111
 Dolyns'ka	48.11041	32.76449
 Domanivka	47.63333	30.98333
+<<<<<<< HEAD
 Donets’k	48	37.8
+=======
+Donetsâ€™k	48	37.8
+>>>>>>> origin/master
 Dovbysh	50.36667	27.98333
 Dovhe	48.36833	23.28222
 Drabiv	49.96667	32.13333
@@ -202,11 +251,19 @@ Dudchany	47.18557	33.7639
 Duliby	49.23333	23.81667
 Dunaivtsi	48.9	26.83333
 Dvorichna	49.85028	37.68556
+<<<<<<< HEAD
 Dykan’ka	49.81667	34.53333
 Dymer	50.78333	30.3
 Dymytrove	48.60583	32.99056
 Dzembronya	48.10703	24.67821
 Dzerzhyns’k	48.40472	37.83278
+=======
+Dykanâ€™ka	49.81667	34.53333
+Dymer	50.78333	30.3
+Dymytrove	48.60583	32.99056
+Dzembronya	48.10703	24.67821
+Dzerzhynsâ€™k	48.40472	37.83278
+>>>>>>> origin/master
 Dzhankoy	45.71287	34.39559
 Dzvinogrud	49.73333	24.25
 Energodar	47.49865	34.6574
@@ -233,11 +290,19 @@ Gubinikha	48.81667	35.25
 Hadyach	50.36667	34
 Haysyn	48.8	29.4
 Hayvoron	48.35	29.85
+<<<<<<< HEAD
 Heniches’k	46.1735	34.80797
 Hlobyne	49.38333	33.28333
 Hlukhiv	51.68333	33.91667
 Hlyboka	48.08639	25.92111
 Hola_Prystan’	46.52056	32.52583
+=======
+Henichesâ€™k	46.1735	34.80797
+Hlobyne	49.38333	33.28333
+Hlukhiv	51.68333	33.91667
+Hlyboka	48.08639	25.92111
+Hola_Prystanâ€™	46.52056	32.52583
+>>>>>>> origin/master
 Holovyne	50.46667	28.83333
 Horbachevo-Mykhaylivka	47.85	38.00638
 Horinchovo	48.26944	23.43778
@@ -251,7 +316,11 @@ Horodok	49.16667	26.56667
 Horodyshche	49.28333	31.45
 Horodyshche	50.63333	26.36667
 Hoshcha	50.6	26.66667
+<<<<<<< HEAD
 Hostomel’	50.56841	30.2651
+=======
+Hostomelâ€™	50.56841	30.2651
+>>>>>>> origin/master
 Hrebinka	50.11667	32.43333
 Hrymayliv	49.33333	26.03333
 Hryshkivtsi	49.93333	28.6
@@ -261,17 +330,29 @@ Husyatyn	49.06667	26.21667
 Huty	50.12528	35.34056
 Hvizd	48.68556	24.55472
 Ichnya	50.86667	32.4
+<<<<<<< HEAD
 Illichivs’k	46.3	30.66667
 Illintsi	49.11667	29.2
 Ilovays’k	47.92504	38.19714
 Inkerman	44.60986	33.61497
 Irpin’	50.51667	30.25
+=======
+Illichivsâ€™k	46.3	30.66667
+Illintsi	49.11667	29.2
+Ilovaysâ€™k	47.92504	38.19714
+Inkerman	44.60986	33.61497
+Irpinâ€™	50.51667	30.25
+>>>>>>> origin/master
 Irshava	48.31667	23.05
 Ispas	48.30778	25.275
 Ivanivka	46.70861	34.55389
 Ivanivka	46.96667	30.46667
 Ivankiv	50.93333	29.9
+<<<<<<< HEAD
 Ivano-Frankivs’k	48.9215	24.70972
+=======
+Ivano-Frankivsâ€™k	48.9215	24.70972
+>>>>>>> origin/master
 Iza	48.21556	23.32861
 Izmayil	45.35	28.83333
 Izyaslav	50.11667	26.8
@@ -286,7 +367,11 @@ Kalchevaya	45.73333	28.81667
 Kalush	49.01667	24.36667
 Kalynivka	49.46667	28.53333
 Kalyny	48.14139	23.88111
+<<<<<<< HEAD
 Kamen’-Kashirskiy	51.63333	24.96667
+=======
+Kamenâ€™-Kashirskiy	51.63333	24.96667
+>>>>>>> origin/master
 Kamennoye	48.17	39.17444
 Kamennyye_Potoki	48.98111	33.53139
 Kamianka	49.03333	32.1
@@ -311,8 +396,13 @@ Kharkiv	50	36.25
 Khartsyzsk	48.03528	38.155
 Khashchevoye	48.70138	35.3401
 Kherson	46.63333	32.6
+<<<<<<< HEAD
 Khmel’nyts’kyy	49.41667	27
 Khmil’nyk	49.55979	27.95754
+=======
+Khmelâ€™nytsâ€™kyy	49.41667	27
+Khmilâ€™nyk	49.55979	27.95754
+>>>>>>> origin/master
 Khodorov	49.4	24.31667
 Kholmy	51.86667	32.6
 Khorol	49.78333	33.28333
@@ -343,15 +433,26 @@ Kobyzhcha	50.83333	31.5
 Kochetok	49.88139	36.73694
 Kodra	50.6	29.56667
 Kodyma	48.1	29.11667
+<<<<<<< HEAD
 Koktebel’	44.95939	35.23919
+=======
+Koktebelâ€™	44.95939	35.23919
+>>>>>>> origin/master
 Kolochava	48.43556	23.69222
 Kolodenka	50.58333	26.31667
 Kolomak	49.83333	35.3
 Kolomyya	48.53056	25.04028
+<<<<<<< HEAD
 Koloniya_Zastav’ye	50.81667	27.03333
 Komarno	49.63333	23.7
 Kompaniyivka	48.24528	32.21167
 Komsomol’s’ke	49.59472	36.52528
+=======
+Koloniya_Zastavâ€™ye	50.81667	27.03333
+Komarno	49.63333	23.7
+Kompaniyivka	48.24528	32.21167
+Komsomolâ€™sâ€™ke	49.59472	36.52528
+>>>>>>> origin/master
 Komsomolsk	49.00973	33.64546
 Komyshany	46.63583	32.50833
 Komyshuvakha	47.72306	35.52528
@@ -364,10 +465,17 @@ Korets	50.61667	27.16667
 Kornyn	50.08333	29.36667
 Korolevo	48.15	23.13333
 Korop	51.56667	32.96667
+<<<<<<< HEAD
 Korosten’	50.95	28.65
 Korostyshiv	50.31667	29.06667
 Korotych	49.94444	36.03444
 Korsun’-Shevchenkivs’kyy	49.43333	31.25
+=======
+Korostenâ€™	50.95	28.65
+Korostyshiv	50.31667	29.06667
+Korotych	49.94444	36.03444
+Korsunâ€™-Shevchenkivsâ€™kyy	49.43333	31.25
+>>>>>>> origin/master
 Koryukivka	51.76667	32.26667
 Kosiv	48.315	25.09528
 Kosmach	48.75389	24.375
@@ -376,25 +484,43 @@ Kostryzhivka	48.65472	25.70528
 Kostyantynivka	48.53333	37.71667
 Kostyantynivka	47.83333	31.15
 Kostyantynivka	46.81722	35.42111
+<<<<<<< HEAD
 Kotovs’k	47.75	29.53306
 Kotsyubinskoye	50.5	30.36667
 Kovel’	51.21667	24.71667
+=======
+Kotovsâ€™k	47.75	29.53306
+Kotsyubinskoye	50.5	30.36667
+Kovelâ€™	51.21667	24.71667
+>>>>>>> origin/master
 Kozachi_Laheri	46.70528	32.99111
 Kozelets	50.91667	31.11667
 Kozhanka	49.96667	29.76667
 Kozova	49.43333	25.15
 Kozyatyn	49.71667	28.83333
+<<<<<<< HEAD
 Kramators’k	48.71667	37.53333
 Krasna	48.57833	24.6975
 Krasne	46.11667	32.78333
 Krasni_Okny	47.53861	29.46028
 Krasnoarmiys’k	48.28333	37.18333
+=======
+Kramatorsâ€™k	48.71667	37.53333
+Krasna	48.57833	24.6975
+Krasne	46.11667	32.78333
+Krasni_Okny	47.53861	29.46028
+Krasnoarmiysâ€™k	48.28333	37.18333
+>>>>>>> origin/master
 Krasnodon	48.295	39.74
 Krasnodon	48.31222	39.57056
 Krasnohrad	49.36667	35.45
 Krasnokutsk	50.05222	35.16444
 Krasnopavlivka	49.13722	36.32722
+<<<<<<< HEAD
 Krasnoperekops’k	45.95472	33.79579
+=======
+Krasnoperekopsâ€™k	45.95472	33.79579
+>>>>>>> origin/master
 Krasnopillya	50.7725	35.25694
 Krasnosilka	46.61667	30.76667
 Krasnotorka	48.68333	37.51667
@@ -402,17 +528,28 @@ Krasnoye	49.91667	24.61667
 Krasnyy_Kut	48.20722	38.79361
 Krasnyy_Liman	48.98333	37.81667
 Krasnyy_Luch	48.13306	38.9325
+<<<<<<< HEAD
 Krasnyy_Oktyabr’	48.25	38.2
 Krasyliv	49.65	26.96667
 Kremenchuk	49.09725	33.41972
 Kremenets’	50.1	25.71667
+=======
+Krasnyy_Oktyabrâ€™	48.25	38.2
+Krasyliv	49.65	26.96667
+Kremenchuk	49.09725	33.41972
+Kremenetsâ€™	50.1	25.71667
+>>>>>>> origin/master
 Kreminna	49.04944	38.21972
 Kremintsi	48.34167	24.57444
 Krepenskiy	48.07306	39.06194
 Krinichnaya	48.13139	38.02194
 Kriva	48.16667	23.25
 Krivaya_Gora	51.38333	30.2
+<<<<<<< HEAD
 Krivopol’ye	48.19516	24.69624
+=======
+Krivopolâ€™ye	48.19516	24.69624
+>>>>>>> origin/master
 Krolevets	51.55	33.38333
 Kruty	51.05974	32.10634
 Krynychky	48.36667	34.45
@@ -433,7 +570,11 @@ Kushuhum	47.71444	35.20917
 Kuteynykove	47.81043	38.28316
 Kuty	48.25333	25.17778
 Kuybysheve	47.35	36.65
+<<<<<<< HEAD
 Kuznetsovs’k	51.68333	25.86667
+=======
+Kuznetsovsâ€™k	51.68333	25.86667
+>>>>>>> origin/master
 Kvasy	48.14806	24.28083
 Kyrylivka	46.36556	35.36833
 Ladan	50.51667	32.58333
@@ -461,16 +602,27 @@ Lozno-Oleksandrivka	49.83389	38.73333
 Lozova	48.88333	36.38333
 Lozuvatka	48.0575	33.28028
 Lubny	50.01667	33
+<<<<<<< HEAD
 Luhans’k	48.56667	39.33333
 Luhyny	51.08333	28.4
 Lukov	51.05	25.4
 Luts’k	50.75	25.33333
+=======
+Luhansâ€™k	48.56667	39.33333
+Luhyny	51.08333	28.4
+Lukov	51.05	25.4
+Lutsâ€™k	50.75	25.33333
+>>>>>>> origin/master
 Lutugino	48.40194	39.21028
 Luzhany	48.36667	25.78333
 L'viv	49.83826	24.02324
 Lykhivka	48.6825	33.92583
 Lyman	49.59556	36.46861
+<<<<<<< HEAD
 Lymans’ke	46.66667	29.96667
+=======
+Lymansâ€™ke	46.66667	29.96667
+>>>>>>> origin/master
 Lypcha	48.25972	23.37722
 Lypnyazhka	48.44694	31.07611
 Lypova_Dolyna	50.56667	33.8
@@ -480,7 +632,11 @@ Lysychovo	48.49694	23.27944
 Lyubar	49.91667	27.75
 Lyubashivka	47.85	30.25
 Lyubech	51.7	30.65
+<<<<<<< HEAD
 Lyuboml’	51.23333	24.03333
+=======
+Lyubomlâ€™	51.23333	24.03333
+>>>>>>> origin/master
 Lyubotyn	49.94691	35.92907
 Lyubymivka	46.79917	33.59056
 Mahdalynivka	48.88333	34.93333
@@ -492,13 +648,21 @@ Mala_Tokmachka	47.53778	35.88667
 Mala_Vyska	48.65444	31.62833
 Malokakhovka	46.77917	33.45417
 Malokaterynivka	47.6525	35.25389
+<<<<<<< HEAD
 Malorichens’ke	44.75772	34.55618
+=======
+Malorichensâ€™ke	44.75772	34.55618
+>>>>>>> origin/master
 Malyn	50.76667	29.23333
 Malynivka	49.81667	36.73333
 Manchenky	49.97982	35.85835
 Manhush	47.05	37.3
 Manyava	48.65583	24.37083
+<<<<<<< HEAD
 Marhanets’	47.63972	34.63639
+=======
+Marhanetsâ€™	47.63972	34.63639
+>>>>>>> origin/master
 Mariupol'	47.06667	37.5
 Markivka	49.53056	39.56778
 Markova	48.68694	24.42472
@@ -511,7 +675,11 @@ Medenychi	49.43333	23.75
 Medzhibozh	49.43333	27.41667
 Melekyne	46.95889	37.4
 Meliorativnoye	48.6	35.36667
+<<<<<<< HEAD
 Melitopol’	46.84222	35.37306
+=======
+Melitopolâ€™	46.84222	35.37306
+>>>>>>> origin/master
 Mena	51.51667	32.21667
 Merefa	49.81972	36.05194
 Metelkino	48.92722	38.55278
@@ -525,7 +693,11 @@ Mizhvodne	45.58557	32.84591
 Mizoch	50.4	26.15
 Mleyev	49.35	31.53333
 Mlyniv	50.5	25.6
+<<<<<<< HEAD
 Mohyliv-Podil’s’kyy	48.45	27.8
+=======
+Mohyliv-Podilâ€™sâ€™kyy	48.45	27.8
+>>>>>>> origin/master
 Molodiya	48.21667	26.03333
 Molodizhne	48.17861	32.65944
 Molodogvardeysk	48.34972	39.72778
@@ -562,7 +734,11 @@ Nemyriv	48.97021	28.83578
 Neresnytsya	48.12083	23.77139
 Netishyn	50.35	26.63333
 Nikita	44.53333	34.23333
+<<<<<<< HEAD
 Nikopol’	47.56667	34.4
+=======
+Nikopolâ€™	47.56667	34.4
+>>>>>>> origin/master
 Nizhnyaya_Krynka	48.11444	38.16944
 Nizhyn	51.05	31.88333
 Nosivka	50.93333	31.58333
@@ -576,6 +752,7 @@ Nova_Vodolaha	49.71667	35.86667
 Nove_Davydkovo	48.45	22.63333
 Nove-Misto	48.98333	29.81667
 Novhorodka	48.365	32.65917
+<<<<<<< HEAD
 Novhorod-Sivers’kyy	52	33.26667
 Novi_Bilokorovychi	51.11667	28.05
 Novi_Sanzhary	49.33333	34.33333
@@ -586,6 +763,18 @@ Novobohdanivka	47.08194	35.32722
 Novofedorovka	46.16667	32.3
 Novohrad-Volyns’kyy	50.6	27.61667
 Novomoskovs’k	48.61667	35.2
+=======
+Novhorod-Siversâ€™kyy	52	33.26667
+Novi_Bilokorovychi	51.11667	28.05
+Novi_Sanzhary	49.33333	34.33333
+Novi_Troyany	45.94194	28.85861
+Novoarkhanhelâ€™sâ€™k	48.66083	30.82083
+Novoazovs'k	47.11389	38.08599
+Novobohdanivka	47.08194	35.32722
+Novofedorovka	46.16667	32.3
+Novohrad-Volynsâ€™kyy	50.6	27.61667
+Novomoskovsâ€™k	48.61667	35.2
+>>>>>>> origin/master
 Novomykolayivka	47.97833	35.90417
 Novomyrhorod	48.7825	31.64694
 Novonikolayevka	48.56667	34.36667
@@ -597,7 +786,11 @@ Novoselitsa	50.08333	27.55
 Novoselytsya	48.21667	26.28333
 Novoukrayinka	48.32167	31.52028
 Novovasylivka	46.82583	35.745
+<<<<<<< HEAD
 Novovolyns’k	50.73333	24.16667
+=======
+Novovolynsâ€™k	50.73333	24.16667
+>>>>>>> origin/master
 Novovorontsovka	47.5	33.93333
 Novytsya	48.95639	24.33472
 Novyy_Buh	47.68333	32.5
@@ -607,7 +800,11 @@ Novyy_Svit	44.82708	34.91403
 Novyy_Svit	45.47636	36.29752
 Novyy_Yarychiv	49.91667	24.3
 Nuyno	51.55	24.9
+<<<<<<< HEAD
 Nyzhn’ohirs’kyy	45.45082	34.73953
+=======
+Nyzhnâ€™ohirsâ€™kyy	45.45082	34.73953
+>>>>>>> origin/master
 Nyzhni_Petrivtsi	48.02944	25.72778
 Nyzhni_Sirohozy	46.84361	34.38083
 Nyzhnya_Duvanka	49.58083	38.16194
@@ -641,7 +838,11 @@ Oster	50.95	30.88333
 Ostroh	50.33333	26.51667
 Osypenko	46.91806	36.83861
 Otyniya	48.74139	24.8525
+<<<<<<< HEAD
 Ovidiopol’	46.26667	30.43333
+=======
+Ovidiopolâ€™	46.26667	30.43333
+>>>>>>> origin/master
 Ovruch	51.31667	28.8
 Ozerna	49.6283	25.32637
 Ozerne	45.4	28.66667
@@ -662,12 +863,21 @@ Perechyn	48.73333	22.46667
 Perehonivka	48.53389	30.52306
 Peremyshlyany	49.66667	24.55
 Peresichna	50.0225	35.98
+<<<<<<< HEAD
 Pereval’sk	48.43917	38.81556
 Pereval'noe	44.83333	34.33333
 Pereyaslav-Khmel’nyts’kyy	50.08333	31.46667
 Pershotravneve	51.4	28.88333
 Pervomays’k	48.04722	30.85028
 Pervomays’ke	45.71367	33.85844
+=======
+Perevalâ€™sk	48.43917	38.81556
+Pereval'noe	44.83333	34.33333
+Pereyaslav-Khmelâ€™nytsâ€™kyy	50.08333	31.46667
+Pershotravneve	51.4	28.88333
+Pervomaysâ€™k	48.04722	30.85028
+Pervomaysâ€™ke	45.71367	33.85844
+>>>>>>> origin/master
 Pervomaysk	48.62833	38.55583
 Peschana	48.11667	29.73333
 Petranka	48.90639	24.30417
@@ -710,20 +920,35 @@ Porohy	48.69	24.26528
 Poroshkovo	48.66667	22.75
 Preobrazhenka	47.58222	35.79694
 Primorskoye	47.18333	37.7
+<<<<<<< HEAD
 Pripyat’	51.38333	30.1
 Prudyanka	50.24476	36.17619
 Prykolotne	50.15889	37.34778
 Pryluky	50.6	32.4
 Prymors’k	46.72944	36.35139
+=======
+Pripyatâ€™	51.38333	30.1
+Prudyanka	50.24476	36.17619
+Prykolotne	50.15889	37.34778
+Pryluky	50.6	32.4
+Prymorsâ€™k	46.72944	36.35139
+>>>>>>> origin/master
 Pryozerne	45.27143	36.32811
 Pryshyb	47.26028	35.32278
 Pryvillya	49.01417	38.29917
 Pryyutivka	48.72222	33.07167
 Pustomyty	49.71667	23.91667
+<<<<<<< HEAD
 Putyvl’	51.33333	33.86667
 Pyryatyn	50.25	32.51667
 Radcha	48.85639	24.65306
 Radomyshl’	50.5	29.23333
+=======
+Putyvlâ€™	51.33333	33.86667
+Pyryatyn	50.25	32.51667
+Radcha	48.85639	24.65306
+Radomyshlâ€™	50.5	29.23333
+>>>>>>> origin/master
 Radyvyliv	50.13333	25.25
 Rakhiv	48.0525	24.20639
 Rakoshyno	48.46667	22.6
@@ -749,10 +974,17 @@ Romodan	50	33.33333
 Ropcha	48.1	25.76667
 Roskoshnoye	48.49167	39.275
 Roskoshnyy	49.38333	30.18333
+<<<<<<< HEAD
 Roven’ki	48.08222	39.36694
 Rozdil’na	46.84334	30.07919
 Rozdo	49.46667	24.06667
 Rozdol’ne	45.7692	33.48629
+=======
+Rovenâ€™ki	48.08222	39.36694
+Rozdilâ€™na	46.84334	30.07919
+Rozdo	49.46667	24.06667
+Rozdolâ€™ne	45.7692	33.48629
+>>>>>>> origin/master
 Rozgirche	49.12265	23.68858
 Rozhishche	50.91667	25.26667
 Rozhniv	48.36611	25.22944
@@ -775,9 +1007,15 @@ Saky	45.13327	33.59408
 Sambir	49.51667	23.2
 Sarata	46.01667	29.66667
 Sarny	51.33333	26.6
+<<<<<<< HEAD
 Savran’	48.13583	30.08139
 Savyntsi	49.40222	37.05944
 Schast’ye	48.74056	39.23
+=======
+Savranâ€™	48.13583	30.08139
+Savyntsi	49.40222	37.05944
+Schastâ€™ye	48.74056	39.23
+>>>>>>> origin/master
 Scholkine	45.42761	35.8247
 Sednev	51.65	31.56667
 Selets	50.31667	24.2
@@ -790,7 +1028,11 @@ Serebriya	48.46667	27.7
 Seredyna-Buda	52.1875	34.02917
 Sergeyevka	46.03333	30.38333
 Serpneve	46.30222	29.01972
+<<<<<<< HEAD
 Sevastopol’	44.58883	33.5224
+=======
+Sevastopolâ€™	44.58883	33.5224
+>>>>>>> origin/master
 Seversk	48.86361	38.09917
 Shabo	46.13333	30.38333
 Shakhtersk	48.04694	38.46861
@@ -807,7 +1049,11 @@ Sheshory	48.33333	24.98333
 Shevchenkove	49.69611	37.17083
 Shevchenkove	46.86583	32.21139
 Shevchenkove	45.55	29.33333
+<<<<<<< HEAD
 Shkil’ne	45.05758	33.89737
+=======
+Shkilâ€™ne	45.05758	33.89737
+>>>>>>> origin/master
 Shklo	49.95	23.53333
 Sholokhove	47.70472	34.04944
 Shostka	51.86667	33.48333
@@ -818,8 +1064,13 @@ Shyroke	47.95684	38.23312
 Shyryayeve	47.38333	30.2
 Shyshaky	49.88175	34.01118
 Simeiz	44.40646	34.00704
+<<<<<<< HEAD
 Simferopol’	44.95844	34.10558
 Skadovs’k	46.11667	32.91667
+=======
+Simferopolâ€™	44.95844	34.10558
+Skadovsâ€™k	46.11667	32.91667
+>>>>>>> origin/master
 Skalat	49.43333	25.98333
 Skhodnitsa	49.23333	23.35
 Skole	49.03333	23.51667
@@ -838,7 +1089,11 @@ Snizhne	48.01694	38.76583
 Snyatyn	48.45	25.56667
 Sobolivka	49.33333	28.65
 Sofiyivka	48.05111	33.87444
+<<<<<<< HEAD
 Sokal’	50.48333	24.28333
+=======
+Sokalâ€™	50.48333	24.28333
+>>>>>>> origin/master
 Sokyryany	48.45	27.41667
 Soledar	48.67972	38.09833
 Solone	48.21667	34.86667
@@ -846,7 +1101,11 @@ Solonka	49.75621	24.01028
 Solonytsivka	49.99682	36.03464
 Solotvyn	48.70667	24.42278
 Solotvyno	47.95	23.86667
+<<<<<<< HEAD
 Sonyachnohirs’ke	44.74722	34.53999
+=======
+Sonyachnohirsâ€™ke	44.74722	34.53999
+>>>>>>> origin/master
 Sosnytsya	51.53333	32.5
 Spas	48.8875	24.05889
 Spasskoye	48.65	35.03333
@@ -861,7 +1120,11 @@ Stara_Vyzhivka	51.43333	24.43333
 Stari_Bohorodchany	48.82889	24.52528
 Stari_Kuty	48.27806	25.17806
 Starobesheve	47.74971	38.02129
+<<<<<<< HEAD
 Starobil’s’k	49.27639	38.90583
+=======
+Starobilâ€™sâ€™k	49.27639	38.90583
+>>>>>>> origin/master
 Starokostyantyniv	49.75	27.21667
 Starokozache	46.33722	29.98528
 Starychi	49.98333	23.55
@@ -894,6 +1157,7 @@ Sutysky	49.05	28.43333
 Svalyava	48.55	22.98333
 Svarychiv	48.96139	24.18694
 Svatove	49.41222	38.15083
+<<<<<<< HEAD
 Sverdlovs’k	48.07667	39.65333
 Svirzh	49.65	24.43333
 Svitlovods’k	49.08333	33.25
@@ -903,6 +1167,17 @@ Svyatogorsk	49.03333	37.56667
 Syedove	47.06824	38.15437
 Syeverodonets’k	48.94556	38.50222
 Synel’nykove	48.33333	35.51667
+=======
+Sverdlovsâ€™k	48.07667	39.65333
+Svirzh	49.65	24.43333
+Svitlovodsâ€™k	49.08333	33.25
+Svityazâ€™	51.48333	23.85
+Svoboda	48.35807	22.36713
+Svyatogorsk	49.03333	37.56667
+Syedove	47.06824	38.15437
+Syeverodonetsâ€™k	48.94556	38.50222
+Synelâ€™nykove	48.33333	35.51667
+>>>>>>> origin/master
 Synevyr	48.48833	23.62833
 Synevyrs'ka_Polyana	48.58484	23.6891
 Talalayivka	50.95	31.91667
@@ -913,7 +1188,11 @@ Tayirove	46.36667	30.66667
 Teplodar	46.5	30.33333
 Teplyk	48.66667	29.73333
 Terebovlya	49.3	25.71667
+<<<<<<< HEAD
 Ternopil’	49.5516	25.60875
+=======
+Ternopilâ€™	49.5516	25.60875
+>>>>>>> origin/master
 Ternuvate	47.83	36.12611
 Terny	50.98333	33.98333
 Terpinnya	46.97056	35.42111
@@ -926,17 +1205,28 @@ Torez	48.03833	38.58778
 Toshkovka	48.77556	38.57222
 Tovste	48.84861	25.72806
 Trebukhiv	50.48333	30.9
+<<<<<<< HEAD
 Tripol’ye	50.11667	30.76667
 Trostyanets’	50.47472	34.94639
+=======
+Tripolâ€™ye	50.11667	30.76667
+Trostyanetsâ€™	50.47472	34.94639
+>>>>>>> origin/master
 Trud-Kutok	46.75586	30.01156
 Truskavets	49.28333	23.5
 Tsarychanka	48.95	34.48333
 Tsibulev	49.06667	29.85
 Tsybli	49.96667	31.55
 Tsybulevka	48.38333	29.13333
+<<<<<<< HEAD
 Tsyurupyns’k	46.61639	32.71139
 Tukhlya	48.91667	23.46667
 Tul’chyn	48.68148	28.86705
+=======
+Tsyurupynsâ€™k	46.61639	32.71139
+Tukhlya	48.91667	23.46667
+Tulâ€™chyn	48.68148	28.86705
+>>>>>>> origin/master
 Turbiv	49.33333	28.73333
 Turka	49.15	23.03333
 Tyachiv	48.01667	23.58333
@@ -952,7 +1242,11 @@ Uhryniv	48.9575	24.70417
 Ukrainka	50.13333	30.73333
 Ulanov	49.69512	28.13298
 Ulichnoye	49.23333	23.65
+<<<<<<< HEAD
 Uman’	48.75	30.22222
+=======
+Umanâ€™	48.75	30.22222
+>>>>>>> origin/master
 Unizh	48.8	25.35
 Uralo-Kavkaz	48.30028	39.82722
 Urzuf	46.91583	37.09528
@@ -968,7 +1262,11 @@ Vapnyarka	48.53478	28.75599
 Varva	50.5	32.73333
 Vary	48.13333	22.71667
 Vashkivtsi	48.38306	25.51361
+<<<<<<< HEAD
 Vasyl’kiv	50.18333	30.31667
+=======
+Vasylâ€™kiv	50.18333	30.31667
+>>>>>>> origin/master
 Vasylivka	47.43694	35.27417
 Vasyshcheve	49.83333	36.32611
 Vatutine	49.01778	31.06222
@@ -1001,11 +1299,19 @@ Viline	44.84537	33.66812
 Vinnytsya	49.23333	28.48333
 Viytivka	48.41667	29.53333
 Vodyane	47.48889	34.49667
+<<<<<<< HEAD
 Vol’noye	47.63333	34.81667
 Volnovakha	47.6	37.5
 Volodarka	49.51667	29.91667
 Volodymerets’	51.41667	26.13333
 Volodymyr-Volyns’kyy	50.85	24.33333
+=======
+Volâ€™noye	47.63333	34.81667
+Volnovakha	47.6	37.5
+Volodarka	49.51667	29.91667
+Volodymeretsâ€™	51.41667	26.13333
+Volodymyr-Volynsâ€™kyy	50.85	24.33333
+>>>>>>> origin/master
 Voloka	48.19306	25.92972
 Volovets	48.7109	23.1851
 Volovo	48.52278	23.50833
@@ -1013,10 +1319,17 @@ Vorokhta	48.28694	24.57194
 Voronovo	48.89917	38.5775
 Voronovytsya	49.1	28.68333
 Vorozhba	51.17639	34.22111
+<<<<<<< HEAD
 Vorzel’	50.55	30.15
 Voskhod	45.3392	36.4141
 Voskhod	44.51667	34.21667
 Vovchans’k	50.28838	36.94198
+=======
+Vorzelâ€™	50.55	30.15
+Voskhod	45.3392	36.4141
+Voskhod	44.51667	34.21667
+Vovchansâ€™k	50.28838	36.94198
+>>>>>>> origin/master
 Voyinka	45.869	33.99319
 Voykove	47.9673	38.2071
 Voykove	45.38399	36.43577
@@ -1041,14 +1354,23 @@ Vyzhnytsya	48.25	25.18333
 Yablonovka	48.96512	25.44159
 Yabluniv	48.40333	24.94917
 Yablunytsya	48.31583	24.48444
+<<<<<<< HEAD
 Yagel’nitsa_Stara	48.98333	25.7
 Yahil’nytsya	48.94278	25.73917
+=======
+Yagelâ€™nitsa_Stara	48.98333	25.7
+Yahilâ€™nytsya	48.94278	25.73917
+>>>>>>> origin/master
 Yahotyn	50.28333	31.76667
 Yakymivka	46.68972	35.15361
 Yalta	46.96333	37.27556
 Yalta	44.5	34.16667
 Yamnytsya	48.98972	24.7075
+<<<<<<< HEAD
 Yampil’	51.94765	33.78759
+=======
+Yampilâ€™	51.94765	33.78759
+>>>>>>> origin/master
 Yaremcha	48.45833	24.55194
 Yarmolyntsi	49.2	26.83333
 Yasinovataya	48.135	37.85028
@@ -1098,7 +1420,11 @@ Zhuravka	50.48333	32.6
 Zhurivka	50.5	31.78333
 Zhvanets	48.54968	26.48744
 Zhytomyr	50.25	28.66667
+<<<<<<< HEAD
 Zin’kiv	50.21194	34.35667
+=======
+Zinâ€™kiv	50.21194	34.35667
+>>>>>>> origin/master
 Zlynka	48.48306	31.54611
 Zmiyev	49.7025	36.37694
 Znomenka	48.71278	32.66472
